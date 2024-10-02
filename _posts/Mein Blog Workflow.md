@@ -1,8 +1,8 @@
 ---
 title: Mein Blog Workflow
-dates: 2024-09-20 09:58
 tags: 
 publish: false
+date: 2024-09-02
 ---
 Das ist mein erster Versuch für einen Commit. 
 Das ist mein zweiter Versuch für einen Commit. 
