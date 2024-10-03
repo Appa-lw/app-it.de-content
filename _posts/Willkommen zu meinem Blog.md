@@ -4,5 +4,9 @@ dates: 2024-10-02 00:24
 categories: 
 tags:
 ---
-Das ist mein erster Versuch für einen Commit. 
-Das ist mein zweiter Versuch für einen Commit. 
+
+# Moin!
+
+Wilkommen bei meinem IT Blog. 
+
+Ich bin Appa. Ich interessiere mich immer sehr für IT. 
